@@ -5,3 +5,4 @@ freezegun
 safety
 pre-commit
 tox
+authlib>=1.6.4 # not directly required, pinned by Snyk to avoid a vulnerability
